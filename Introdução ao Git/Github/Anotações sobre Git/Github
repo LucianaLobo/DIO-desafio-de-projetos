@@ -1,0 +1,30 @@
+Git e Github#
+
+*Git*
+
+É uma ferramenta de vercionamento de código, ou seja, é um softwere de controle de versão. O Git é um repositório local.
+
+*Github*
+
+É uma plataforma de rede social para programadores. O Github é um repositório remoto e possui diversas vantagens, entre elas podemos destacar. 
+
+* É um repositório ilimitado;
+* Hospeda código fonte de qualquer linguagem;
+* Permite a colaboração em código etc.
+
+*Git Bash*
+
+O Git Bash é um terminal extendido para otimizar o uso do Git.
+
+Alguns comandos do Git Bash:
+
+- git init: inicia o repositório do Git
+- git add: move o arquivo e da os primeiros comandos
+- git commit: cria o primeiro commit
+- git commit -m: remove o arquivo para o repositório local
+                                                                                          
+
+links
+
+[Download do Git](https://git-scm.com/download/win) 
+[Curso de Git e Github](https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
